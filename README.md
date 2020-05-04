@@ -5,3 +5,4 @@ windows pc端杀毒软件识别（需要tasklist 命令执行的结果）
 ![截图1](./Capture/1.PNG)  
 ![截图2](./Capture/3.PNG)
 
+python3 whatAV.py -f tasklist.txt
